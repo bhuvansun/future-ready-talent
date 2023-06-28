@@ -5,7 +5,9 @@ About: Project work for **Future Ready Talent**, a virtual internship program in
 
 <h1> Website Link: </h1>
 https://lively-coast-079cc9110.3.azurestaticapps.net/
-<br> <br>
+
+<h1> Project Video Link: </h1> 
+https://youtu.be/3G8974bs170
 
 <b> Azure Technologies Used: Static Web Apps, Web App. </b>
 <br>
@@ -84,7 +86,3 @@ Services available at the restaurant, along with some other links.
 <br> <br>
 ![eleventh_page](https://github.com/bhuvansun/future-ready-talent/assets/117800668/f2050689-9a17-4e83-abd3-0f99d6880f49)
 <br> <br>
-<br> <br>
-
-### Project Video Link: 
-https://youtu.be/3G8974bs170
