@@ -84,3 +84,7 @@ Services available at the restaurant, along with some other links.
 <br> <br>
 ![eleventh_page](https://github.com/bhuvansun/future-ready-talent/assets/117800668/f2050689-9a17-4e83-abd3-0f99d6880f49)
 <br> <br>
+<br> <br>
+
+### Project Video Link: 
+https://youtu.be/3G8974bs170
