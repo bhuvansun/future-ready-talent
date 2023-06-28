@@ -15,3 +15,5 @@ Azure Technologies Used: Static Web Apps, Web App.
   The aim of this project is to develop a website that serves as the means of navigating and learning about the restaurant, as well as accessing the services provided 
   remotely.
 </p>
+
+![alt text](https://github.com/bhuvansun/future-ready-talent/tree/main/assets/img/web/front_page.png)
