@@ -8,12 +8,15 @@ https://lively-coast-079cc9110.3.azurestaticapps.net/
 
 <h1> Project Video Link: </h1> 
 https://youtu.be/3G8974bs170
+<br><br>
 
-<h1> Azure Technologies Used: </h1>
+## Azure Technologies Used: 
 1. <b>Static Web App</b> for deploying the website.
-<br>
 2. <b>Azure Storage Account</b> for storing the program files and the content of the website.
-<br>
+
+## Resource Group Link: 
+https://portal.azure.com/#@iiitdmacin.onmicrosoft.com/resource/subscriptions/d49067c6-0d06-4a1d-84e1-f0904327214e/resourceGroups/project/overview
+<br><br>
 
 # Project Description:
 <p> 
