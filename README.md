@@ -9,7 +9,7 @@ https://lively-coast-079cc9110.3.azurestaticapps.net/
 <h1> Project Video Link: </h1> 
 https://youtu.be/3G8974bs170
 
-<b> Azure Technologies Used: Static Web Apps, Web App. </b>
+<b> Azure Technologies Used: Static Web Apps, Web App, Azure Blob Storage. </b>
 <br>
 
 # Project Description:
