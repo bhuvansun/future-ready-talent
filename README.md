@@ -9,7 +9,10 @@ https://lively-coast-079cc9110.3.azurestaticapps.net/
 <h1> Project Video Link: </h1> 
 https://youtu.be/3G8974bs170
 
-<b> Azure Technologies Used: Static Web App, Azure Storage Account. </b>
+<h1> Azure Technologies Used: </h1>
+1. Static Web App.
+<br>
+2. Azure Storage Account.
 <br>
 
 # Project Description:
@@ -86,3 +89,28 @@ Services available at the restaurant, along with some other links.
 <br> <br>
 ![eleventh_page](https://github.com/bhuvansun/future-ready-talent/assets/117800668/f2050689-9a17-4e83-abd3-0f99d6880f49)
 <br> <br>
+
+<h1>Azure Static Web App</h1>
+![swa](https://github.com/bhuvansun/future-ready-talent/assets/117800668/9caf5805-1fe0-4e20-8896-7078bea2ece1)
+
+<h1>Azure Storage Account</h1>
+![sa1](https://github.com/bhuvansun/future-ready-talent/assets/117800668/97a548f4-14b1-4823-9f42-734ca2926e5c)
+<br> <br>
+
+![sa2](https://github.com/bhuvansun/future-ready-talent/assets/117800668/9a1072a8-4343-4b4e-ba9f-269114fe753c)
+<br> <br>
+
+![sa3](https://github.com/bhuvansun/future-ready-talent/assets/117800668/ea7fbb81-f5bb-483e-90b6-db1f02b5f1ac)
+<br> <br>
+
+![sa4](https://github.com/bhuvansun/future-ready-talent/assets/117800668/bea1dfe7-cf2f-448a-955d-0e8559859e70)
+
+
+
+
+
+
+
+
+
+
