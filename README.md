@@ -10,9 +10,9 @@ https://lively-coast-079cc9110.3.azurestaticapps.net/
 https://youtu.be/3G8974bs170
 
 <h1> Azure Technologies Used: </h1>
-1. Static Web App.
+1. <b>Static Web App</b> for deploying the website.
 <br>
-2. Azure Storage Account.
+2. <b>Azure Storage Account</b> for storing the program files and the content of the website.
 <br>
 
 # Project Description:
@@ -90,11 +90,13 @@ Services available at the restaurant, along with some other links.
 ![eleventh_page](https://github.com/bhuvansun/future-ready-talent/assets/117800668/f2050689-9a17-4e83-abd3-0f99d6880f49)
 <br> <br>
 
-<h1>Azure Static Web App</h1>
+<h1>Azure Services</h1>
+
+### 1. Azure Static Web App
 
 ![swa](https://github.com/bhuvansun/future-ready-talent/assets/117800668/9caf5805-1fe0-4e20-8896-7078bea2ece1)
 
-<h1>Azure Storage Account</h1>
+### 2. Azure Storage Account
 
 ![sa1](https://github.com/bhuvansun/future-ready-talent/assets/117800668/8b4a5058-e251-4803-9944-e8b4ded88ab1)
 <br> <br>
@@ -106,13 +108,3 @@ Services available at the restaurant, along with some other links.
 <br> <br>
 
 ![sa4](https://github.com/bhuvansun/future-ready-talent/assets/117800668/bea1dfe7-cf2f-448a-955d-0e8559859e70)
-
-
-
-
-
-
-
-
-
-
